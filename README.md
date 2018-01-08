@@ -7,7 +7,7 @@ The current implemation is limited to grouping of images into sets of views. Glo
 
 
 Requirments:
-  1. OpenCV3
+  1. OpenCV3
   2. Python3.5 or >
   
  
