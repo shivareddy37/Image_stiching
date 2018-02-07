@@ -1,5 +1,5 @@
 # Image_stitching
-Given a set of images of a different views taken from different  angles. The program groups them together to in order to perform global image alignment and stitching.
+Given a set of images of different views taken from different angles/view points. The program groups them together to in order to perform global image alignment and stitching.
 
 
 The current implemation is limited to grouping of images into sets of views. Global Image alingment and stitching has not been addressed yet.
